@@ -13,6 +13,7 @@
     "vite": "^2.0.5"
   },
   "dependencies": {
-    "@google-cloud/vision": "^2.4.2"
+    "@google-cloud/vision": "^2.4.2",
+    "chart.js": "^3.7.0"
   }
 }
